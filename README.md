@@ -1,4 +1,4 @@
-# Demo-repository
-This is my first Git repository
-I am Arpit Sahu 
-Student at IIIT Kota
+# About 
+I am an Electronics and Communication Engineering student at IIIT Kota with a clear ambition: to contribute to national security and innovation as a defense scientist. I thrive in quiet, focused environments where I can dive deep into complex problems and engineer practical solutions. Currently, I am expanding my technical toolkit across C++, Python, DSA, and Web Development, with a special interest in the intersection of robotics and artificial intelligence.
+
+Recently, I put these skills into practice by building an AI-powered application for a hackathon. Beyond the screen, I am a naturally curious learner who loves exploring new places through travel and expressing ideas through writing. I also enjoy challenging myself creatively and organizationally as the social media manager for our college cultural club, where I have contributed significantly to event management and execution. Whether I am coding, organizing, or researching, I am always eager to learn, build, and tackle real-world challenges.
